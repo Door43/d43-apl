@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[apl:home|Door43 (apl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-apl|d43-apl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-apl/archive/master.zip|d43-apl.zip]]
+
+**Recent Changes**
+{{changes>ns = apl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/apl|Ethnologue data]]
+
